@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Aurora Borealis
-Plugin URI:
+Plugin URI: https://wordpress.org/plugins/aurora-borealis
 Description: A delightfully devilish wordpress plugin forked from "Hello Dolly". When activated you will randomly see a line of dialog from Seymour Skinners unforgettable luncheon in the upper right of your admin screen on every page.
 Author: Matthew Daryl Gregory
 Version: 1.0
