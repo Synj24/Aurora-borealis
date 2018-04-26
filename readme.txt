@@ -1,8 +1,4 @@
 === Aurora borealis ===
-Contributors: matt
-Requires at least: 3.0
-Stable tag: 1.6
-Tested up to: 4.1
 
 A delightfully devilish wordpress plugin forked from "Hello Dolly"
 
